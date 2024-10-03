@@ -1,0 +1,43 @@
+
+#rubrik
+{
+   text-align: center;
+   font-family: Robot, monospace;
+   background-color: yellow;
+   color: blue;
+   border: 3px solid black;
+   margin-left: 1%;
+   margin-right: 1%;
+}
+body
+{
+    background-image: url(img/showcase.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.artikel
+{
+    border: 2px black solid;
+    margin: 2%;
+    background-color: aliceblue;
+}
+
+h2.artikel
+{
+    text-align: center;
+}
+
+p.artikel
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.sidfot
+{
+ background-image: url(img/logo-html-css-js.png);
+ background-repeat: no-repeat;
+ height: 202px;
+ background-position: center;
+}
